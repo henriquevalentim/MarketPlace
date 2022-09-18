@@ -1,0 +1,19 @@
+{
+    "users": [
+      { "id": 1, "username": "henrique@gmail.com", "password": "123456" },
+      { "id": 2, "username": "cintia@gmail.com", "password": "654321" },
+      { "id": 3, "username": "henriquevalentim16@gmail.com", "password": "123456789" },
+      { "id": 4, "username": "teste@gmail.com", "password": "seila" },
+      { "id": 5, "username": "teste2@gmail.com", "password": "seila2" }
+    ],
+    "products": [
+      { "id": 1, "name": "some comment", "postId": 1 }
+    ],
+    "carousel": [
+        { "id":1, "image": "https://via.placeholder.com/800x400", "description": "Promoção 2022" }, 
+        { "id":2, "image": "https://via.placeholder.com/800x400", "description": "Promoção 2023" }, 
+        { "id":3, "image": "https://via.placeholder.com/800x400", "description": "Promoção 2024" },
+        { "id":3, "image": "https://via.placeholder.com/800x400", "description": "Promoção 2025" },
+        { "id":3, "image": "https://via.placeholder.com/800x400", "description": "Promoção 2044" }
+    ]
+  }
